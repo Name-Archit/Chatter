@@ -30,7 +30,7 @@ router.post('/register',
         });
 
         console.log("done");
-        res.redirect("/");
+        res.redirect("/user/login");
     } catch (err) {
         console.error(err);
         res.status(500).send("Error registering user");
