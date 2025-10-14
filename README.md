@@ -1,6 +1,6 @@
 <img width="1536" height="1024" alt="ChatGPT Image Oct 4, 2025, 05_26_59 PM" src="https://github.com/user-attachments/assets/b4eb42bc-0c24-4019-9a39-5a84188601f5" />
 
-
+* **Project Under Work..**
 # Chatter
 
 Chatter is a secure, real-time chat web application designed for private communication between two users. Messages are encrypted and can only be read by users with the correct key, ensuring that conversations remain confidential. Without the key, chats remain encrypted and inaccessible.
